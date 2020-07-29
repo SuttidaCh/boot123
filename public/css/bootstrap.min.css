@@ -94,6 +94,10 @@ body {
   background-color:  #F1C40F;
 }
 
+.icon{
+  text-decoration: none;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
